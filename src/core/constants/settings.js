@@ -1,0 +1,1 @@
+export const MY_BIRTH_DATE = new Date(1997, 4, 20);
